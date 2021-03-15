@@ -1,0 +1,5 @@
+1 /home/sina/urdisney/src/ur5xprs/hriStudyCDs/Disney/hit.txt /home/sina/urdisney/src/ur5xprs/hriStudyCDs/Disney/lying.txt arcs 0 0
+1 /home/sina/urdisney/src/ur5xprs/hriStudyCDs/Disney/lying.txt /home/sina/urdisney/src/ur5xprs/hriStudyCDs/Disney/hit.txt drag 1 4
+0 /home/sina/urdisney/src/ur5xprs/hriStudyCDs/Disney/anticipate_states.txt /home/sina/urdisney/src/ur5xprs/hriStudyCDs/Disney/configsave.txt siso 1 8
+1 /home/sina/urdisney/src/ur5xprs/hriStudyCDs/Disney/hit.txt /home/sina/urdisney/src/ur5xprs/hriStudyCDs/Disney/hit5.txt siso 1 8
+1 /home/sina/urdisney/src/ur5xprs/hriStudyCDs/Disney/hit5.txt /home/sina/urdisney/src/ur5xprs/hriStudyCDs/Disney/hit7.txt arcs 1 0

@@ -1,0 +1,5 @@
+lying
+hit
+2
+shootout_pose
+x
